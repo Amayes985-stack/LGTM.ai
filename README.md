@@ -26,6 +26,12 @@
 - **Code Quality**: Maintainability, readability, best practices
 - **Best Practices**: Language-specific conventions and standards
 
+
+## Demo 
+
+![Dashboard Preview](demo/1.png)
+
+
 ## 🏗️ Architecture
 
 ```
