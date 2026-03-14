@@ -30,6 +30,11 @@
 ## Demo 
 
 ![Dashboard Preview](demo/1.png)
+![Dashboard Preview](demo/2.png)
+![Dashboard Preview](demo/3.png)
+![Dashboard Preview](demo/4.png)
+![Dashboard Preview](demo/5.png)
+![Dashboard Preview](demo/6.png)
 
 
 ## 🏗️ Architecture
