@@ -18,7 +18,7 @@
 ### 🔍 What It Detects
 - **Security Issues**: 
   - Python: SQL injection, XSS, command injection, hardcoded credentials, unsafe deserialization
-  - JavaScript: eval(), innerHTML XSS, hardcoded keys, localStorage misuse
+  - JavaScript: eval(), innerHTML XSS, hardcoded keys, local Storage misuse
   - C/C++: Buffer overflows, format string bugs, memory leaks, command injection
   - SQL: SQL injection, dangerous operations
 - **Architecture**: Design patterns, code organization, structure improvements
