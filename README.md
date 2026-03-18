@@ -363,7 +363,9 @@ This is a demonstration project showing:
 
 ## 📄 License
 
-MIT License - Built as a portfolio project demonstrating advanced AI integration and full-stack development capabilities.
+MIT License - Built as a portfolio project demonstrating advanced AI integration and full-stack development capabilities. 
+
+This project is built for educational and production use and licensed under the [MIT License](../LICENSE). See the `LICENSE` file for more details.
 
 ## 🎯 Business Impact
 
